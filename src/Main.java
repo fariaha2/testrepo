@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!fdgjj");
         System.out.println("hihihi");
         System.out.println("skg");
-        System.out.println("JDKFJAFHK");
+        System.out.println("JDKFJAFHK HELLO");
     }
 }
