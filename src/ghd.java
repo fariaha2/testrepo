@@ -8,4 +8,7 @@ public class ghd {
     public String birthdayWishes() {
         return "Happy Birthday!!!! :D";
     }
+    public int HFKFSK() {
+        return h;
+    }
 }
