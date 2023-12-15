@@ -8,4 +8,8 @@ public class ghd {
     public String birthdayWishes() {
         return "Happy Birthday!!!! :D";
     }
+    public void hola() {
+        System.out.println("hola");
+    }
+
 }
