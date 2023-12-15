@@ -1,3 +1,3 @@
 public class ghd {
-    private int g;
+    private int h;
 }
