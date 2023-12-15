@@ -4,4 +4,8 @@ public class ghd {
     public int num() {
         return 6;
     }
+
+    public String birthdayWishes() {
+        return "Happy Birthday!!!! :D";
+    }
 }
